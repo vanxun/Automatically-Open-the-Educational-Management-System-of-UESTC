@@ -51,6 +51,3 @@ python uestc_jw.py
 ```
 
 脚本会打开一个独立的 Chromium 浏览器窗口，不影响正在使用的 Chrome。
-
-- 不要把填了真实密码的 `config.json` 发给别人。
-- 如果需要分发，建议把 `config.json` 里的内容改回示例占位文本。
